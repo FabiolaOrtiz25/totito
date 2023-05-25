@@ -63,7 +63,7 @@ function mil(){
         // body...
     }
     function estrella(){ 
-    document.getElementById('amar').src="cir.png";
+    document.getElementById('amar').src="circulo.jpg";
     document.getElementById('amar').style.height="140px";
     document.getElementById('amar').style.width="140px";
     document.getElementById('mar').style.display="none";
@@ -72,14 +72,14 @@ function mil(){
     
     }
     function eli(){ 
-    document.getElementById('mar').src="x.png";
+    document.getElementById('mar').src="equis.jpg";
     document.getElementById('mar').style.height="140px";
     document.getElementById('mar').style.width="140px";
     document.getElementById('amar').style.display="none";
         // body...
     }
     function coco(){ 
-    document.getElementById('lol').src="cir.png";
+    document.getElementById('lol').src="circulo.jpg";
     document.getElementById('lol').style.height="140px";
     document.getElementById('lol').style.width="140px";
     document.getElementById('dose').style.display="none";
@@ -88,14 +88,14 @@ function mil(){
     
     }
     function mimi(){ 
-    document.getElementById('dolge').src="x.png";
+    document.getElementById('dolge').src="equis.jpg";
     document.getElementById('dolge').style.height="140px";
     document.getElementById('dolge').style.width="140px";
     document.getElementById('lol').style.display="none";
         // body...
     }
     function ela(){ 
-    document.getElementById('alp').src="cir.png";
+    document.getElementById('alp').src="circulo.jpg";
     document.getElementById('alp').style.height="140px";
     document.getElementById('alp').style.width="140px";
     document.getElementById('sor').style.display="none";
@@ -104,14 +104,14 @@ function mil(){
     
     }
     function a(){ 
-    document.getElementById('sor').src="x.png";
+    document.getElementById('sor').src="equis.jpg";
     document.getElementById('sor').style.height="140px";
     document.getElementById('sor').style.width="140px";
     document.getElementById('alp').style.display="none";
         // body...
     }
     function sejo(){ 
-    document.getElementById('taya').src="cir.png";
+    document.getElementById('taya').src="circulo.jpg";
     document.getElementById('taya').style.height="140px";
     document.getElementById('taya').style.width="140px";
     document.getElementById('tayo').style.display="none";
@@ -120,14 +120,14 @@ function mil(){
     
     }
     function l(){ 
-    document.getElementById('tayo').src="x.png";
+    document.getElementById('tayo').src="circulo.jpg";
     document.getElementById('tayo').style.height="140px";
     document.getElementById('tayo').style.width="140px";
     document.getElementById('tayo').style.display="none";
         // body...
     }
     function aca(){ 
-    document.getElementById('yeah').src="cir.png";
+    document.getElementById('yeah').src="ciculo.jpg";
     document.getElementById('yeah').style.height="140px";
     document.getElementById('yeah').style.width="140px";
     document.getElementById('yep').style.display="none";
@@ -136,7 +136,7 @@ function mil(){
     
     }
     function e(){ 
-    document.getElementById('yep').src="x.png";
+    document.getElementById('yep').src="equis.jpg";
     document.getElementById('yep').style.height="140px";
     document.getElementById('yep').style.width="140px";
     document.getElementById('yeah').style.display="none";
